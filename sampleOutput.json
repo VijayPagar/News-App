@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Khan Younis: UN says nine killed at Gaza shelter as fighting rages",
+    "description": "A UN agency says tank fire hit a college in Khan Younis, but Israel rules out a strike by its forces.",
+    "url": "https://www.bbc.co.uk/news/world-middle-east-68078580",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/173E2/production/_132420259_10ae29f3-cf5e-47dc-9d62-04623d7daace.jpg",
+    "publishedAt": "2024-01-25T08:37:16.8877649Z",
+    "content": "At least nine people were killed and 75 injured when a UN facility sheltering civilians was struck in Khan Younis in southern Gaza, the UN's Palestinian refugee agency says.\r\nUNRWA said two tank shel… [+6641 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Captain Cook statue vandalised in Melbourne on eve of Australia Day",
+    "description": "Police investigate the vandalism in Melbourne - which included graffiti saying \"the colony will fall\".",
+    "url": "https://www.bbc.co.uk/news/world-australia-68090094",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C0AA/production/_132422394_cook.jpg",
+    "publishedAt": "2024-01-25T08:37:15.4996009Z",
+    "content": "A century-old Captain James Cook statue has been cut down and a Queen Victoria monument covered in red paint in an apparent protest in Australia.\r\nThe late-night vandalism occurred in Melbourne on th… [+1999 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Japan: Man sentenced to death for Kyoto anime fire which killed 36",
+    "description": "The arson attack in a revered Kyoto animation studio killed 36 people and injured dozens more.",
+    "url": "https://www.bbc.co.uk/news/world-asia-68090388",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11D48/production/_107923037_hi055361643.jpg",
+    "publishedAt": "2024-01-25T08:37:13.2189191Z",
+    "content": "A Japanese man has been sentenced to death for an arson attack at a Kyoto animation studio in 2019 which killed 36 people and injured dozens more.\r\nThe incident, one of Japan's deadliest in recent de… [+3056 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Halle Berry's film shelved by Netflix - US media",
+    "description": "US Oscar-winning actress's sci-fi adventure The Mothership reportedly required significant reshoots.",
+    "url": "https://www.bbc.co.uk/news/entertainment-arts-68089783",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9DE6/production/_132422404_gettyimages-1918190936-1.jpg",
+    "publishedAt": "2024-01-25T04:07:16.3992729Z",
+    "content": "US Oscar-winning actress Halle Berry's sci-fi film, The Mothership, will not be released on Netflix, US media report.\r\nThe Hollywood Reporter said Netflix shelved the film because significant reshoot… [+1627 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Asante Gold: UK to loan back Ghana's looted 'crown jewels'",
+    "description": "Treasures taken 150 years ago will go back, the BBC can reveal, in a possible model for other disputes.",
+    "url": "https://www.bbc.co.uk/news/entertainment-arts-68066877",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17553/production/_132417559_ghanacap-index.jpg",
+    "publishedAt": "2024-01-25T03:22:18.2405258Z",
+    "content": "The UK is sending some of Ghana's \"crown jewels\" back home, 150 years after looting them from the court of the Asante king.\r\nA gold peace pipe is among 32 items returning under long-term loan deals, … [+9500 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Downed plane: Still unanswered questions amid Ukraine and Russia claims",
+    "description": "Warfare can come in the form of battle or information control, and Russia has a history of brazen lies.",
+    "url": "https://www.bbc.co.uk/news/world-europe-68089698",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/139E/production/_132422050_gettyimages-1481326711.jpg",
+    "publishedAt": "2024-01-25T02:07:16.1657978Z",
+    "content": "Media caption, The BBC has verified this video showing the moment a Russian aircraft crashed in the Belgorod region\r\nThere are shooting wars and there are information wars and countries that are figh… [+4036 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Woman rescued after 14 hours atop submerged car",
+    "description": "The woman had driven into an engorged creek and survived by climbing on her flipped car and waiting overnight to be found.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68090138",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13A26/production/_132422408_p0h6yx13.jpg",
+    "publishedAt": "2024-01-25T02:07:14.3372155Z",
+    "content": "Officers in Lake Del Valle, California airlifted a woman to safety after she drove into an engorged creek. The woman survived after climbing on her car and spending the night there until she was spot… [+178 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Ohio overrides governor's veto to ban transgender medical treatment involving children",
+    "description": "The bill bans puberty blockers, hormone therapy or gender transition surgery involving children",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68089932",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/828E/production/_132422433_gettyimages-1233657530.jpg",
+    "publishedAt": "2024-01-25T01:52:12.5880629Z",
+    "content": "Ohio's state legislature has banned transgender medical procedures for children and restricted transgender athletes on school sports teams, overridding the governor's veto.\r\nThe state's Republican Go… [+2274 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "United Automobile Workers union endorses Biden for re-election",
+    "description": "The UAW union's backing may provide a boost to a US president who is courting working-class voters.",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68088778",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0714/production/_132421810_gettyimages-1950952712.jpg",
+    "publishedAt": "2024-01-24T21:37:13.5720798Z",
+    "content": "The United Automobile Workers, a major US union representing more than 400,000 people, has endorsed the re-election bid of President Joe Biden.\r\nIt comes after the Democrat, 81, joined UAW workers on… [+3277 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Top US court refuses to block nitrogen gas execution",
+    "description": "US Supreme Court refuses to block Alabama from executing man using untested method of nitrogen gas",
+    "url": "https://www.bbc.co.uk/news/world-us-canada-68089279",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2024-01-24T20:22:20.0879044Z",
+    "content": "This breaking news story is being updated and more details will be published shortly. Please refresh the page for the fullest version."
+    }
+    ]
+    }
