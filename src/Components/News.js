@@ -21,10 +21,13 @@ export class News extends Component {
 
     
   }
+  capitalize=(s)=>
+  {
+      return s[0].toUpperCase() + s.slice(1);
+  }
 
-
-  constructor(){
-    super();
+  constructor(props){
+    super(props);
     console.log("Hello i am a constructor from News component")
     this.state={
       articles:[],
@@ -32,6 +35,7 @@ export class News extends Component {
       page:1
       
     }
+    document.title=`${this.capitalize(this.props.category)} - NewsHub`;
   }
   async componentDidMount() {
     try {
@@ -92,7 +96,7 @@ export class News extends Component {
   
     return (
       <div className='container my-3' >
-        <h1 className='text-center' style={{margin :'35px'}} >News app - Top headlines</h1>
+        <h1 className='text-center' style={{margin :'35px'}} >NewsHub - Top  {this.capitalize(this.props.category)} headlines</h1>
         
         {this.state.loading && <Spinner/>}
         
@@ -101,7 +105,8 @@ export class News extends Component {
         {!this.state.loading && this.state.articles.map((element)=>{
           
           return(<div className='col-md-4'  key={element.url}>
-          <NewsItem title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage} className="card-img-top" alt="..." newsUrl={element.url}/>
+   
+          <NewsItem title={element.title?element.title:""} description={element.description?element.description:""} imageUrl={element.urlToImage || "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png"} className="card-img-top" alt="..." newsUrl={element.url} author={element.author} date={element.publishedAt}/>
       </div>)
         })}
         <div className="container d-flex justify-content-between">
